@@ -1,0 +1,8 @@
+{
+  "name": "starting_with_react",
+  "version": "1.0.0",
+  "title": "Starting With React",
+  "devDependencies": {
+    "babel-preset-react": "^6.5.0"
+  }
+}
